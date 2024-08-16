@@ -5,7 +5,7 @@
 本教程为麦麦原创，也可以去B站找我 👉🏻 [我的空间](https://space.bilibili.com/1583208775)
 
 ## 🧾 前端工程 && 数据库表
-🖋 [github]()
+🖋 [github](https://github.com/redcomet88/tour-vue)
 
 ## 🧑‍🎓 前置课程
 🕸 [scrapy实战 爬取景点信息和评论](https://blog.csdn.net/roccreed/article/details/140680833)
